@@ -1,0 +1,14 @@
+{
+    "folder-color.pathColors": [
+        {
+            "folderPath": "readakitaab\\app\\about\\",
+            "badge": "🤣"
+        }
+    ],
+    "folder-customization.folders": [
+        {
+            "path": "readakitaab\\app\\about\\",
+            "color": "foldercustomization.AnsiColor19"
+        }
+    ]
+}
