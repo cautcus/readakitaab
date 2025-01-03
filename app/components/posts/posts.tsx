@@ -1,5 +1,4 @@
-"use client"
-import { link } from "fs";
+"use client";
 import { AnimatedTestimonials } from "./animated-testimonials";
 
 export function Posts() {

@@ -22,7 +22,7 @@ const Home: React.FC = () => {
       <section className="bg-brown-100 text-white py-12">
         <div className="mx-auto text-center">
           <h1 className="text-4xl md:text-4xl lg:text-6xl font-semibold max-w-7xl mx-auto text-center relative z-20 py-6 bg-clip-text text-transparent bg-gradient-to-b from-neutral-800 via-neutral-700 to-neutral-700">
-            Welcome to <Cover>"Read A Kitaab Reading Community"</Cover>
+            Welcome to <Cover>Read A Kitaab Reading Community</Cover>
           </h1>
           <p className="text-lg md:text-xl lg:text-2xl max-w-4xl mx-auto text-center relative z-20 pt-2 text-neutral-700 font-serif italic">
             Join our community of book lovers and writers to explore literature,

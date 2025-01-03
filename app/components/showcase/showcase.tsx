@@ -1,6 +1,5 @@
-import { div } from "framer-motion/client";
 import { FocusCards } from "./focus-cards";
-import { link } from "fs";
+
 
 export function Showcase() {
   const cards = [
