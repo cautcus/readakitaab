@@ -2,6 +2,7 @@
 
 import React from 'react'
 import { IconBrandInstagram, IconHeadphones  } from '@tabler/icons-react';
+import Link from 'next/link';
 
 export function Footer() {
     return (
@@ -20,7 +21,7 @@ export function Footer() {
 
       <ul className="mt-6 space-y-4 text-sm">
             <li>
-              <a href="/#" className="text-gray-700 transition hover:opacity-75">Home</a>
+              <Link href="/" className="text-gray-700 transition hover:opacity-75">Home</Link>
             </li>
 
             <li>
